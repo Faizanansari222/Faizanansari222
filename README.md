@@ -77,10 +77,10 @@ Feel free to reach out!
 ---
 
 ## 📝 Recent Projects:
-### 🔥 **[Project Name 1](https://yourprojectlink.com)**
-- **Tech Stack**: Next.js, Firebase, Tailwind CSS
+### 🔥 **[Personal Portfolio]([https://yourprojectlink.com](https://faizan-pr.netlify.app/))**
+- **Tech Stack**: Next.js, MagicUI, ShadCN, Tailwind CSS
 - **Description**: A brief project description showcasing its key features.
 
-### 🌟 **[Project Name 2](https://yourprojectlink.com)**
-- **Tech Stack**: React.js, Redux, MongoDB
+### 🌟 **[OLX Clone]([https://yourprojectlink.com](https://oolx-clone.netlify.app/))**
+- **Tech Stack**: React.js, Redux, Tailwind CSS, MagicUI, MongoDB, Node.js, express.js, Mongoose
 - **Description**: A brief project description showcasing its unique features.
