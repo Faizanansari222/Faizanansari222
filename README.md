@@ -19,10 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/status.svg" height="34" alt="Faizan Ansari is open to freelance projects" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faizanansari222&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   <a href="https://github.com/Faizanansari222?tab=followers"><img src="https://img.shields.io/github/followers/Faizanansari222?label=Followers&style=flat-square&color=36BCF7" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-203a43?style=flat-square" alt="Location: Karachi, Pakistan" />
